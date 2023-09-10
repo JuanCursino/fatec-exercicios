@@ -1,0 +1,6 @@
+tempo = int(input("\ndigite o valor da prestação: "))
+valor = int(input("\ndigite a taxa: "))
+taxa = int(input("\ndigite o tempo(numero de meses): "))
+prest = valor+(valor*(taxa/100)*tempo)
+print ("\no valor da prestacao em atraso e =", prest)
+print ("\n")

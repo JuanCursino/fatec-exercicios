@@ -1,0 +1,8 @@
+nome = (input("\nEntre com nome:  "))
+endereco = (input("\nEntre com endereco:  "))
+telefone = (input("\nEntre com telefone:  "))
+print("\n\n\n")
+print("\nNome : ",nome)
+print("\nEndereco: ",endereco)
+print("\nTelefone: ",telefone)
+print("\n")

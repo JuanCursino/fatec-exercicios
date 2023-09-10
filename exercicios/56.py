@@ -1,0 +1,6 @@
+nome = (input("\ndigite nome:  "))
+idade = int(input( "\ndigite idade: "))
+print ("\n")
+print ("\nNome: ", nome)
+print ("\nIdade: ", idade)
+print ("\n")
